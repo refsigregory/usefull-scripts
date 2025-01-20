@@ -4,6 +4,7 @@ To begin, first, create a new folder for the virtual machine files and move the 
 
         
 `mkdir Ubuntu-VM`
+
 `sudo mv /path/to/ubuntu.iso ./Ubuntu-VM`
 
     
